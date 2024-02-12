@@ -1,0 +1,32 @@
+body {
+}
+
+h1 {
+    color: darkorange;
+}
+
+h2 { 
+  color: chocolate;
+} 
+
+.esimerkki {
+    color: darkred; 
+}
+
+    .hankalaa {
+        color: darkred;
+    }
+
+    .esimerkki-box {
+        background-color: lightgreen;
+        border: 1px solid;
+        padding: 5px;
+    }
+
+    td {
+      color: black;  
+    }
+
+tbody tr:nth-child(odd) {
+    background-color: grey;
+}
